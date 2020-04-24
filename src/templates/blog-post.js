@@ -24,6 +24,4 @@ query Post ($slug: String!){
 }
 `;
 
-
-
 export default BlogPost;
